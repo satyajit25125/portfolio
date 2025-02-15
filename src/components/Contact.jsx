@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components';
-import { HiOutlineMail } from "react-icons/hi";
+
 import { TfiEmail } from "react-icons/tfi";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa6";

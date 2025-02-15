@@ -1,6 +1,6 @@
 import React from 'react'
 import "../App.css";
-import{Link} from "react-scroll"
+
 import styled from "styled-components"
 import { CgMenu, CgClose } from "react-icons/cg";
 import { useState } from 'react';
